@@ -1,4 +1,5 @@
 import Nav from "./components/Nav";
+import Jumbotron from "./components/Jumbotron";
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
    
     <div className="App">
      <Nav />
+      <Jumbotron/>
     </div>
   );
 }
