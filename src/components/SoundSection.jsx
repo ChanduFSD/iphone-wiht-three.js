@@ -1,6 +1,6 @@
 import React from "react";
 
-const SoundSection = () => {
+function SoundSection () {
   return (
     <div className="sound-section wrapper">
       <div className="body">
